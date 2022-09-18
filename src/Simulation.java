@@ -5,7 +5,7 @@
 
 /**
  *
- * @author izukend
+ * @author Izukend
  */
 public class Simulation {
     
