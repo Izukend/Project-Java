@@ -40,7 +40,7 @@ public class Simulation {
     public double Simuler20() {
         Clan monClan = new Clan("monClan") ;
         Guerrier g ;
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 20; i++) {
             g = new Guerrier() ;
             monClan.ajouter(g) ;
         }
