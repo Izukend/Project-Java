@@ -5,7 +5,7 @@
 
 /**
  *
- * @author yohannbonnet
+ * @author izukend
  */
 public class Simulation {
     
